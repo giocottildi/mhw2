@@ -426,7 +426,7 @@ footer .flex-tastini{
     margin-top: -40px;
     margin-left: 100px;
 }
-.finto-pulsante{
+.back-to-the-top{
     background-color: red;
     position: fixed; /*uso di position*/
     bottom: 10%;
